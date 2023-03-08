@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout/_header.scss","app.css"],"names":[],"mappings":"AAAA,GACI,oBCCJ","file":"app.css","sourcesContent":["h1{\r\n    background-color: red;\r\n}\r\n","h1 {\n  background-color: red;\n}"]}
